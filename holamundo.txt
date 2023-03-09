@@ -1,6 +1,7 @@
 Hola mundo
 Adios
 Buenas
+Malas
 2
 3
 Hola desde otro pc
